@@ -1,4 +1,4 @@
- 🛒 Amazon Clone
+# 🛒 Amazon Clone
 
 An **Amazon Clone** website built using **HTML and CSS** only.  
 This project focuses on recreating the **UI and layout** of Amazon’s homepage to practice front-end design and responsive styling.
